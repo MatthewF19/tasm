@@ -14,4 +14,4 @@ This is a terrible half-working assembler
 - 16/64 bit immediates & registers
 - more instructions
 - parser for asm source
-- proper headers
+- proper headers (ASAP!)
