@@ -8,6 +8,7 @@ This is a terrible half-working assembler
 - sub
 - syscall
 - jmp
+- writing files as ELF executables
 
 ## TODO
 - 16/64 bit immediates & registers
